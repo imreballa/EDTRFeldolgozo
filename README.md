@@ -12,3 +12,11 @@ A feldolgozó
 - letörli a csatolt PDF állományt
 
 A kód nem a legszebb és valószínűleg nem is működik minden állománnyal.
+
+Ha hozzá szeretnél járulni bármivel
+- javítással
+- módosítással
+- pontosítással
+- ötletekkel
+- kód szépítéssel
+csak nyugodtan készítsd el és add fel a pull requestet.
