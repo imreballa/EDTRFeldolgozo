@@ -1,0 +1,12 @@
+# alapok
+*.suo
+*.user
+*.dbmdl
+*.TMP
+
+# output folders
+bin/
+obj/
+
+# VS related folders
+.vs/
