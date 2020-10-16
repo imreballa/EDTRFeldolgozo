@@ -1,0 +1,13 @@
+C:\Users\ballai\source\repos\EDTRFeldolgozo\bin\Debug\netcoreapp3.1\EDTRFeldolgozo.exe
+C:\Users\ballai\source\repos\EDTRFeldolgozo\bin\Debug\netcoreapp3.1\EDTRFeldolgozo.deps.json
+C:\Users\ballai\source\repos\EDTRFeldolgozo\bin\Debug\netcoreapp3.1\EDTRFeldolgozo.runtimeconfig.json
+C:\Users\ballai\source\repos\EDTRFeldolgozo\bin\Debug\netcoreapp3.1\EDTRFeldolgozo.runtimeconfig.dev.json
+C:\Users\ballai\source\repos\EDTRFeldolgozo\bin\Debug\netcoreapp3.1\EDTRFeldolgozo.dll
+C:\Users\ballai\source\repos\EDTRFeldolgozo\bin\Debug\netcoreapp3.1\EDTRFeldolgozo.pdb
+C:\Users\ballai\source\repos\EDTRFeldolgozo\obj\Debug\netcoreapp3.1\EDTRFeldolgozo.csprojAssemblyReference.cache
+C:\Users\ballai\source\repos\EDTRFeldolgozo\obj\Debug\netcoreapp3.1\EDTRFeldolgozo.AssemblyInfoInputs.cache
+C:\Users\ballai\source\repos\EDTRFeldolgozo\obj\Debug\netcoreapp3.1\EDTRFeldolgozo.AssemblyInfo.cs
+C:\Users\ballai\source\repos\EDTRFeldolgozo\obj\Debug\netcoreapp3.1\EDTRFeldolgozo.csproj.CoreCompileInputs.cache
+C:\Users\ballai\source\repos\EDTRFeldolgozo\obj\Debug\netcoreapp3.1\EDTRFeldolgozo.dll
+C:\Users\ballai\source\repos\EDTRFeldolgozo\obj\Debug\netcoreapp3.1\EDTRFeldolgozo.pdb
+C:\Users\ballai\source\repos\EDTRFeldolgozo\obj\Debug\netcoreapp3.1\EDTRFeldolgozo.genruntimeconfig.cache
